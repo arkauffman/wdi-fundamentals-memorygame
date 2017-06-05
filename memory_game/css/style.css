@@ -50,6 +50,14 @@ h2 {
 	font-sizze: 20px;
 }
 
+h4, .contact {
+	font-family: Raleway, sans-serif;
+	color: #0D2C40;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-sizze: 20px;
+}
+
 p {
 	font-family: "Droid Serif";
 	line-height: 26px;
